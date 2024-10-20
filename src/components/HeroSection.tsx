@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const HeroSection = () => {
   return (
     <div>
@@ -41,7 +43,7 @@ const HeroSection = () => {
             </div>
           </div>
           <div className="relative mt-7 flex w-full items-end justify-center md:m-auto md:justify-end">
-            <img
+            <Image
               alt="piaic"
               loading="lazy"
               width="1600"

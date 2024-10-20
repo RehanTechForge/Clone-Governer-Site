@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Slider from "./Slider";
 const MainSection = () => {
   return (
@@ -21,7 +22,7 @@ const MainSection = () => {
         other team members.
       </p>
       <div className="grid sm:grid-cols-3 grid-cols-1 gap-5 mt-10 m-3 sm:m-0">
-        <img
+        <Image
           alt="solo1"
           loading="lazy"
           width="1088"
@@ -32,7 +33,7 @@ const MainSection = () => {
           style={{ color: "transparent" }}
           src="/_next/static/media/imageWebsite.5c6ae62f.jpg"
         />
-        <img
+        <Image
           alt="solo2"
           loading="lazy"
           width="500"
@@ -43,7 +44,7 @@ const MainSection = () => {
           style={{ color: "transparent" }}
           src="/_next/static/media/imageWebsite2.a102c7b5.jpg"
         />
-        <img
+        <Image
           alt="solo3"
           loading="lazy"
           width="1088"
