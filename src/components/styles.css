@@ -1,0 +1,35 @@
+/* Ensure the Swiper container is positioned relative */
+.mySwiper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+/* Customize the pagination bullets to look like underlines */
+.swiper-pagination-bullet {
+  width: 60px;           /* Width of the underline */
+  height: 6px;           /* Thickness of the underline */
+  background-color: #ccc; /* Inactive underline color */
+  opacity: 1;            /* Ensure full opacity */
+  margin: 0 8px !important; /* Spacing between underlines */
+  border-radius: 2px;    /* Rounded edges for a smoother look */
+  display: inline-block;
+  transition: background-color 0.3s;
+  cursor: pointer;       /* Change cursor to pointer on hover */
+}
+
+/* Active underline color */
+.swiper-pagination-bullet-active {
+  background-color: #000; /* Active underline color */
+}
+
+/* Position the pagination at the bottom center */
+.mySwiper .swiper-pagination {
+  position: absolute;
+  bottom: 10px; /* Adjust as needed */
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
