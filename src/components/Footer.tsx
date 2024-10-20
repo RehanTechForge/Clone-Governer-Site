@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <div className="mt-20 w-full bg-zinc-100 print:hidden">
-      <div className="m-auto w-[95%] py-20 lg:w-[90%] xl:w-[1300px]">
+      <div className="m-auto w-[95%] py-20 lg:w-[90%]">
         <div className="grid grid-cols-1 gap-10 md:grid-cols-3">
           <div className="text-zinc-800">
             <h1 className="text-xl font-bold">Core Courses</h1>
