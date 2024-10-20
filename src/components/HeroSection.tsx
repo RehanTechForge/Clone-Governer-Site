@@ -5,7 +5,7 @@ const HeroSection = () => {
     <div>
       <div className="relative z-0 w-full overflow-hidden bg-opacity-75 bg-[url('/_next/static/media/bg_house.jpg')] bg-cover __className_092cb9">
         <div className="absolute inset-0 -z-50 h-full w-full bg-zinc-100 bg-opacity-80"></div>
-        <div className="z-50 m-auto mt-6 block w-[95%] items-center justify-between md:flex md:flex-row lg:w-[90%] xl:w-[1300px]">
+        <div className="z-50 m-auto mt-6 block w-[95%] items-center justify-between md:flex md:flex-row lg:w-[90%]">
           <div className="h-fit w-full pt-5 md:w-1/2 md:py-10">
             <h1 className="whitespace-nowrap text-center text-[2rem] font-extrabold leading-10 tracking-wider text-main sm:text-5xl sm:leading-none md:text-left lg:text-6xl text-[#054e83]">
               Governor Sindh
