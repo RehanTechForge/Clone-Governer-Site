@@ -3,37 +3,37 @@ import Card from "./Card"; // Make sure to adjust the path based on your folder 
 const advanceCourseData = [
   {
     title: "Artificial Intelligence",
-    imageSrc: "/_next/static/media/AI.39397d24.jpg", // Replace with actual image path
+    imageSrc: "/AI.39397d24.jpg", // Replace with actual image path
     altText: "Artificial Intelligence",
     link: "/compulsory/1",
   },
   {
     title: "Web 3 and Metaverse",
-    imageSrc: "/_next/static/media/metaverse.06eccb60.jpg", // Replace with actual image path
+    imageSrc: "/metaverse.06eccb60.jpg", // Replace with actual image path
     altText: "Web 3 and Metaverse",
     link: "/compulsory/2",
   },
   {
     title: "Cloud-Native Computing",
-    imageSrc: "/_next/static/media/cloudComputing.7260492c.jpg", // Replace with actual image path
+    imageSrc: "/cloudComputing.7260492c.jpg", // Replace with actual image path
     altText: "Cloud-Native Computing",
     link: "/compulsory/3",
   },
   {
     title: "Ambient Computing and IoT",
-    imageSrc: "/_next/static/media/iot.16f7b003.jpg", // Replace with actual image path
+    imageSrc: "/iot.16f7b003.jpg", // Replace with actual image path
     altText: "Ambient Computing and IoT",
     link: "/compulsory/4",
   },
   {
     title: "Genomics and Bioinformatics",
-    imageSrc: "/_next/static/media/genomics.b87789f1.jpg", // Replace with actual image path
+    imageSrc: "/genomics.b87789f1.jpg", // Replace with actual image path
     altText: "Genomics and Bioinformatics",
     link: "/advance/1",
   },
   {
     title: "Network Programmability and Automation",
-    imageSrc: "/_next/static/media/automation.a77dbbe8.jpg", // Replace with actual image path
+    imageSrc: "/automation.a77dbbe8.jpg", // Replace with actual image path
     altText: "Network Programmability and Automation",
     link: "/advance/2",
   },

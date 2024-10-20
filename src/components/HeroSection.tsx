@@ -52,7 +52,7 @@ const HeroSection = () => {
               data-nimg="1"
               className="md: ml-40 h-auto min-w-[900px] lg:w-[600px]"
               style={{ color: "transparent" }}
-              src="/_next/static/media/cover.1d863e39.png"
+              src="/cover.1d863e39.png"
             />
           </div>
         </div>

@@ -51,7 +51,7 @@ export default function Header() {
         <Link href="/">
           <Image
             className="mt-14 w-[70px] sm:mt-20 sm:w-[80px] md:w-[90px]"
-            src={"/_next/static/media/logo.png"}
+            src={"/logo.png"}
             height={113}
             width={90}
             alt="This Is Our Logo"

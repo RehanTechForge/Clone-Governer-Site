@@ -3,19 +3,19 @@ import Card from "./Card"; // Make sure to adjust the path based on your folder 
 const coreCourseData = [
   {
     title: "Programming Fundamentals",
-    imageSrc: "/_next/static/media/programming_fundamentals.49cca4e9.jpg",
+    imageSrc: "/programming_fundamentals.49cca4e9.jpg",
     altText: "Programming Fundamentals",
     link: "/compulsory/1",
   },
   {
     title: "Web2 Using NextJS",
-    imageSrc: "/_next/static/media/nextjs.3dff0f70.jpg",
+    imageSrc: "/nextjs.3dff0f70.jpg",
     altText: "NextJS",
     link: "/compulsory/2",
   },
   {
     title: "Earn as You Learn",
-    imageSrc: "/_next/static/media/earn_as_your_learn.b8248a49.jpg",
+    imageSrc: "/earn_as_your_learn.b8248a49.jpg",
     altText: "Earn as You Learn",
     link: "/compulsory/3",
   },

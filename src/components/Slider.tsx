@@ -29,7 +29,7 @@ const Slider = () => {
       >
         <SwiperSlide>
           <Image
-            src="/_next/static/media/slideShow1.6f890b58.jpg"
+            src="/slideShow1.6f890b58.jpg"
             alt="Slide One"
             height={800}
             width={600}
@@ -37,7 +37,7 @@ const Slider = () => {
         </SwiperSlide>
         <SwiperSlide>
           <Image
-            src="/_next/static/media/slideShow3.0006489a.jpg"
+            src="/slideShow3.0006489a.jpg"
             alt="Slide Two"
             height={800}
             width={600}
@@ -45,7 +45,7 @@ const Slider = () => {
         </SwiperSlide>
         <SwiperSlide>
           <Image
-            src="/_next/static/media/slideShow4.d9ba1e2d.jpg"
+            src="/slideShow4.d9ba1e2d.jpg"
             alt="Slide Three"
             height={800}
             width={600}
@@ -53,7 +53,7 @@ const Slider = () => {
         </SwiperSlide>
         <SwiperSlide>
           <Image
-            src="/_next/static/media/slideShow5.b502aa01.jpg"
+            src="/slideShow5.b502aa01.jpg"
             alt="Slide Four"
             height={800}
             width={600}
@@ -61,7 +61,7 @@ const Slider = () => {
         </SwiperSlide>
         <SwiperSlide>
           <Image
-            src="/_next/static/media/slideShow6.03103579.jpg"
+            src="/slideShow6.03103579.jpg"
             alt="Slide Five"
             height={800}
             width={600}

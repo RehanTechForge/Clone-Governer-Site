@@ -31,7 +31,7 @@ const MainSection = () => {
           data-nimg="1"
           className="shadow-2xl shadow-black rounded-lg h-[300px] object-cover w-full"
           style={{ color: "transparent" }}
-          src="/_next/static/media/imageWebsite.5c6ae62f.jpg"
+          src="/imageWebsite.5c6ae62f.jpg"
         />
         <Image
           alt="solo2"
@@ -42,7 +42,7 @@ const MainSection = () => {
           data-nimg="1"
           className="shadow-2xl shadow-black rounded-lg h-[300px] w-full"
           style={{ color: "transparent" }}
-          src="/_next/static/media/imageWebsite2.a102c7b5.jpg"
+          src="/imageWebsite2.a102c7b5.jpg"
         />
         <Image
           alt="solo3"
@@ -53,7 +53,7 @@ const MainSection = () => {
           data-nimg="1"
           className="shadow-2xl shadow-black rounded-lg h-[300px] object-cover w-full"
           style={{ color: "transparent" }}
-          src="/_next/static/media/imageWebsite3.b845fe78.jpg"
+          src="/imageWebsite3.b845fe78.jpg"
         />
       </div>
       <Slider />
