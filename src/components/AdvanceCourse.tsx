@@ -41,7 +41,7 @@ const advanceCourseData = [
 
 const AdvanceCourse = () => {
   return (
-    <div className="xl:w-[1300px] lg:w-[90%] w-[95%] m-auto mt-10 mb-10 roboto-bold">
+    <div className="lg:w-[90%] w-[95%] m-auto mt-10 mb-10 roboto-bold">
       <h1 className="lg:text-4xl sm:text-4xl text-2xl sm:text-left text-center text-main font-extrabold mt-10 text-[#054e83]">
         Advanced Courses Sequence
       </h1>

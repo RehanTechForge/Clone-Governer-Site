@@ -2,7 +2,7 @@ import Image from "next/image";
 import Slider from "./Slider";
 const MainSection = () => {
   return (
-    <div className="xl:w-[1300px] lg:w-[90%] w-[95%] m-auto sm:mt-20 mt-10 border-b border-zinc-300 pb-10">
+    <div className="lg:w-[90%] w-[95%] m-auto sm:mt-20 mt-10 border-b border-zinc-300 pb-10">
       <h1 className="text-center xl:text-[36px] sm:text-[32px] text-xl sm:leading-[2.5rem] leading-[1.75rem] text-main font-extrabold m-auto md:w-[95%] text-[#094c7e]">
         Certified Cloud Applied Generative AI Engineer (GenEng) and Solopreneur
         Developing Billion-Dollar Valued Developers and Solopreneurs
