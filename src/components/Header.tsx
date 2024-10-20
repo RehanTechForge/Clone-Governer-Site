@@ -46,7 +46,7 @@ export default function Header() {
 
   return (
     <div className="bg-[#054e83] sticky top-0 z-30 w-full bg-main backdrop-blur-3xl print:hidden">
-      <header className="m-auto flex h-16 w-[95%] items-center justify-between md:h-20 lg:w-[90%] xl:w-[1300px]">
+      <header className="m-auto flex h-16 w-[95%] items-center justify-between md:h-20 lg:w-[90%]">
         {/* Logo */}
         <Link href="/">
           <Image
