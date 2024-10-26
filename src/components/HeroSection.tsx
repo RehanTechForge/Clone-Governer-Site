@@ -3,7 +3,7 @@ import Image from "next/image";
 const HeroSection = () => {
   return (
     <div>
-      <div className="relative z-0 w-full overflow-hidden bg-opacity-75 bg-[url('/_next/static/media/bg_house.jpg')] bg-cover __className_092cb9">
+      <div className="relative z-0 w-full overflow-hidden bg-opacity-75 bg-[url('/bg_house.jpg')] bg-cover __className_092cb9">
         <div className="absolute inset-0 -z-50 h-full w-full bg-zinc-100 bg-opacity-80"></div>
         <div className="z-50 m-auto mt-6 block w-[95%] items-center justify-between md:flex md:flex-row lg:w-[90%]">
           <div className="h-fit w-full pt-5 md:w-1/2 md:py-10">
